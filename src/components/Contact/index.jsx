@@ -40,35 +40,22 @@ export default function index() {
                 </div>
                 <div className={styles.nav}>
                         <Rounded>
-                            <p>info@dennissnellenberg.com</p>
+                            <p>gastonmmassa@gmail.com</p>
                         </Rounded>
                         <Rounded>
-                            <p>+31 6 27 84 74 30</p>
+                            <p>+54 9 11 31750374</p>
                         </Rounded>
                 </div>
                 <div className={styles.info}>
                     <div>
                         <span>
-                            <h3>Version</h3>
-                            <p>2022 © Edition</p>
-                        </span>
-                        <span>
-                            <h3>Version</h3>
-                            <p>11:49 PM GMT+2</p>
-                        </span>
-                    </div>
-                    <div>
-                        <span>
-                            <h3>socials</h3>
+                            <h3>Socials</h3>
                             <Magnetic>
                                 <p>Awwwards</p>
                             </Magnetic>
                         </span>
                         <Magnetic>
-                            <p>Instagram</p>
-                        </Magnetic>
-                        <Magnetic>
-                            <p>Dribbble</p>
+                            <p>Behance</p>
                         </Magnetic>
                         <Magnetic>
                             <p>Linkedin</p>
